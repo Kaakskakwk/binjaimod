@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"The Greeting",
+			"binjai",
+			[
+				15,
+				173,
+				253
+			]
+		],
+		[
+			"Binjai Town",
+			"binjai",
+			[
+				0,
+				133,
+				253
+			]
+		],
+		[
+			"Polargeist",
+			"binjai",
+			[
+				0,
+				133,
+				253
+			]
+		],
+		[
+			"Archipelago",
+			"binjai",
+			[
+				135,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "urmom",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "amogus funni lol xd impostor chan sussy baka zamn",
+	"weekName": "binjaiweekurmom",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

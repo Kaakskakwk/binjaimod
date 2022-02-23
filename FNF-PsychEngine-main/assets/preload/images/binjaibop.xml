@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="binjaibop.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="binjai0000" x="0" y="0" width="1341" height="661"/>
+	<SubTexture name="binjai0001" x="1341" y="0" width="1323" height="644" frameX="-7" frameY="-6" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0002" x="2664" y="0" width="1316" height="628" frameX="-9" frameY="-12" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0003" x="0" y="661" width="1296" height="613" frameX="-17" frameY="-16" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0004" x="1296" y="661" width="1292" height="606" frameX="-18" frameY="-17" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0005" x="2588" y="661" width="1289" height="599" frameX="-18" frameY="-20" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0006" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0007" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0008" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0009" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0010" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0011" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0012" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0013" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+	<SubTexture name="binjai0014" x="0" y="1274" width="1284" height="588" frameX="-19" frameY="-23" frameWidth="1341" frameHeight="661"/>
+</TextureAtlas>

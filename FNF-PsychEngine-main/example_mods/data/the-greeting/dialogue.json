@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Look BF, what is that guy doing??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Looks like he's punching a banana tree until it collapse.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "binjai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo dude!! you're the famous BF and GF, salaaaam dari binjai!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thanks! you're very humble, by the way.. what are you doing to those tree's?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "binjai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I punch tree for my tiktok content lmao"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "binjai",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey! wanna rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sure!!!"
+		}
+	]
+}

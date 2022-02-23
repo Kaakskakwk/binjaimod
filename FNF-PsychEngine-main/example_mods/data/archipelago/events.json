@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "maghrib",
+		"player1": "bf",
+		"player2": "binjaiblack",
+		"player3": null,
+		"events": [
+			[
+				152160,
+				[
+					[
+						"hud_flip",
+						"",
+						""
+					]
+				]
+			],
+			[
+				165600,
+				[
+					[
+						"hud_unflip",
+						"",
+						""
+					]
+				]
+			],
+			[
+				167640,
+				[
+					[
+						"static_V2",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "archipelago"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "binjai",
+		"player1": "bf",
+		"player2": "binjai",
+		"player3": null,
+		"events": [
+			[
+				107192.307692308,
+				[
+					[
+						"Cinema",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "the-greeting"
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "binjai",
+		"player1": "bf",
+		"player2": "bf",
+		"player3": null,
+		"events": [
+			[
+				2423.07692307692,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				2538.46153846154,
+				[
+					[
+						"ScreenRot",
+						"90",
+						"26.3"
+					]
+				]
+			],
+			[
+				2653.84615384615,
+				[
+					[
+						"Toggle Trail",
+						"1",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "itsyaboy"
+	}
+}

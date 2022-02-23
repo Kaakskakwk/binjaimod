@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "binjai",
+		"player1": "bf",
+		"player2": "binjai",
+		"player3": null,
+		"events": [
+			[
+				37200,
+				[
+					[
+						"Cinema",
+						"",
+						""
+					]
+				]
+			],
+			[
+				61920,
+				[
+					[
+						"Cinema",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 125,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "polargeist"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"potassium-punch",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": true,
+	"weekBackground": "lmao",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "lmao",
+	"weekName": "potassiumsus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekbinjai",
+	"startUnlocked": false
+}

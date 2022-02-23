@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"itsyaboy",
+			"bf",
+			[
+				0,
+				255,
+				255
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "lmao",
+	"weekName": "sdsdsdsdsd",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
